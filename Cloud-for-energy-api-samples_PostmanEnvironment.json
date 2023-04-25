@@ -1,0 +1,100 @@
+{
+	"id": "f49e2362-dab9-4382-b045-ec9b880bc8be",
+	"name": "C4E EDS-SAP-SAMPLES-Environment-EU20",
+	"values": [
+		{
+			"key": "cim_endpoint",
+			"value": "/api/v1/core",
+			"enabled": true
+		},
+		{
+			"key": "measurements_endpoint",
+			"value": "/api/v1/measurements",
+			"enabled": true
+		},
+		{
+			"key": "MeterUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "UsagePointUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "UsagePointLocationUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "RegisteredResourceUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ReadingProfileUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "NameUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "NewNameUUID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "IsuUniqueName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "uaa_client_id",
+			"value": "<replace>",
+			"enabled": true
+		},
+		{
+			"key": "uaa_client_secret",
+			"value": "<replace-pwd>",
+			"enabled": true
+		},
+		{
+			"key": "domain",
+			"value": "eds.cloudforenergy.cfapps.eu20.hana.ondemand.com",
+			"enabled": true
+		},
+		{
+			"key": "subaccount-uaa-domain",
+			"value": "<TENANT>.authentication.eu20.hana.ondemand.com",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "https",
+			"enabled": true
+		},
+		{
+			"key": "customer_subaccount",
+			"value": "<TENANT>",
+			"enabled": true
+		},
+		{
+			"key": "jwt",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "EndDeviceFunctionUUID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-04-25T07:27:09.593Z",
+	"_postman_exported_using": "Postman/9.31.0"
+}
