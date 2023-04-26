@@ -14,9 +14,7 @@
 
 # SAP Cloud for Energy Sample API Requests
 
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-for-energy-api-samples)](https://api.reuse.software/info/github.com/SAP-samples/cloud-for-energy-api-samples)
 
 ## Description
 You have a valid *SAP Cloud for Energy* license and want to get familiar with the *Energy Data Services* API? Then the User Guide in this repository in combination with the sample request messages for the *Energy Data Services* API endpoints that we offer for download are a great resource for you.
